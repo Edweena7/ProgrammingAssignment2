@@ -2,6 +2,8 @@
 
 
 ## this function creates the inverse of a matrix and a cached form
+## inv here stands for inverse
+## solve function is used to get the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
